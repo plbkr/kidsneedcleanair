@@ -1,4 +1,4 @@
-Live version of this app is at kidsneedcleanair.com
+Live version of this app is at [kidsneedcleanair.com](kidsneedcleanair.com)
 
 # Getting Started with Create React App
 
